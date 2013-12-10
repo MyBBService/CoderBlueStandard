@@ -39,14 +39,12 @@ a:hover, a:active {
 
 #headernew {
 	background: #0D6FC1 url(coderblue/copyrightbg.png) top left repeat-x;
-	width: 100%;
 	color: #FFFFFF;
 	text-align: left;
 	padding: 10px;
 }
 
 #headertitle {
-width: 100%;
 min-height: 30px;
 background: #F3F3F3;
 border-top: #ccc 2 px solid;
@@ -54,7 +52,6 @@ border-bottom: #ccc 2px solid;
 }
 
 #titlelogo {
-width: 100%;
 background: #F3F3f3;
 margin: 0 auto;
 text-align: left;
